@@ -1,12 +1,6 @@
-learn-html-css
-==============
+I created this webpage through a Women Who Code NYC workshop.
 
-Women Who Code NYC workshop with CN
+Just a simple site, while having lots of fun with other dynamic women in tech.
 
-[View the slides](https://docs.google.com/presentation/d/1OGsg86wsdLvcQeF-fD8VBQ8C6wBSZ6u5dWwHhmpZ670/edit?usp=sharing)
+HTML5 and CSS3.
 
-Resources
----------
-
-* [HTML5 Doctor Element Index](http://html5doctor.com/element-index/): A list of all HTML elements and their usage.
-* [HTML Color Names](http://www.w3schools.com/html/html_colornames.asp)
